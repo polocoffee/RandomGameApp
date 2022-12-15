@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomGameApp</string>
+    <string name="short_description">Short Description</string>
+    <string name="go_to_the_game_page">Go to the game page</string>
+</resources>
